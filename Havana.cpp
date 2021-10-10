@@ -4,7 +4,7 @@ using namespace std;
 
 void IA()
 {
-	for(int i=0;i<10;i++)
+	for(int i=1;i<=10;i++)
 	cout<<"-\"* Mere Naal Weya Kr Ley"<<endl;
 	cout<<endl;
 }
