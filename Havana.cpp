@@ -9,6 +9,13 @@ void IA()
 	cout<<endl;
 }
 
+void IAI()
+{
+	for(int i=0;i<10;i++)
+	cout<<"-\"* Ve Tu Weya Nhi Krona Mere Naal"<<endl;
+	cout<<endl;
+}
+
 int main ()
 {
 	IA();
@@ -16,4 +23,7 @@ int main ()
 		cout<<"I love Pakistan."<<endl;
 	cout<<endl;
 	IA();
+	
+	cout<<endl;
+	IAI()
 }
