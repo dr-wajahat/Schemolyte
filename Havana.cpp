@@ -16,11 +16,15 @@ void IAI()
 	cout<<endl;
 }
 
+void zindabadPakistan(){
+	for (int i=0;i<5;i++)
+		cout<<"I love Pakistan."<<endl;
+}
+
 int main ()
 {
 	IA();
-	for (int i=0;i<5;i++)
-		cout<<"I love Pakistan."<<endl;
+	zindabadPakistan();
 	cout<<endl;
 	IA();
 	
